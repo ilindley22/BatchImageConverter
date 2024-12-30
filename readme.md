@@ -1,4 +1,4 @@
-**Batch Image File Converter**
+**Bulk Image Converter**
 
 This program converts all image files in the desired directory
 from one format to another
